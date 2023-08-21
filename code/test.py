@@ -23,7 +23,7 @@ st.set_page_config(page_title="Fashion Outfit Generator", page_icon="🔮")
 # st.title("🔮 DaVinci Dresser")
 
 openai_api_key = st.sidebar.text_input("Please insert your OpenAI API Key", type="password")
-
+st.sidebar.write("Error will get resolved once you enter your OpenAI API Key")
 radio_btn = st.sidebar.radio(
     "Choose model",
     ('DaVinci Dresser', 'Curie Matcher'))
