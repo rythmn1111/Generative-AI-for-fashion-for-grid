@@ -1,0 +1,1446 @@
+{
+    "trends": [
+      {
+        "name": "Indie Aesthetic",
+        "items": [
+          "Vintage Band T-shirts",
+          "High-waisted Mom Jeans",
+          "Round Glasses",
+          "Canvas Sneakers",
+          "Patterned Socks",
+          "Denim Jackets",
+          "Beanie Hats",
+          "Graphic Hoodies",
+          "Layered Necklaces",
+          "Flannel Shirts",
+          "Vintage Crossbody Bags",
+          "Ripped Skinny Jeans",
+          "Ankle Boots",
+          "Button-up Skirts",
+          "Corduroy Pants"
+        ]
+      },
+      {
+        "name": "Soft Girl Aesthetic",
+        "items": [
+          "Pastel Sweaters",
+          "Pleated Skirts",
+          "Hair Clips with Bows",
+          "Heart-shaped Sunglasses",
+          "Knee-high Socks",
+          "Chunky Platform Sneakers",
+          "Babydoll Dresses",
+          "Cropped Cardigans",
+          "Strawberry Print Tops",
+          "Mini Backpacks",
+          "Wide-brimmed Hats",
+          "Cute Phone Cases",
+          "Lace-trimmed Camisoles",
+          "Gingham Headbands",
+          "Fuzzy Slippers"
+        ]
+      },
+      {
+        "name": "Streetwear",
+        "items": [
+          "Graphic Streetwear Hoodies",
+          "Sneakerhead Sneakers",
+          "Oversized Graphic Tees",
+          "Cargo Pants",
+          "Snapback Caps",
+          "Skateboarder Beanies",
+          "Logo-emblazoned Jackets",
+          "Track Pants",
+          "Retro Windbreakers",
+          "Hype Sneaker Brands",
+          "Utility Vest",
+          "Bucket Hats",
+          "Ripped Denim",
+          "Athletic Socks",
+          "Streetwear Accessories"
+        ]
+      },
+      {
+        "name": "Grunge Aesthetic",
+        "items": [
+          "Plaid Flannel Shirts",
+          "Distressed Skinny Jeans",
+          "Combat Boots",
+          "Band Tees",
+          "Beanie Hats",
+          "Leather Jackets",
+          "Choker Necklaces",
+          "Fishnet Stockings",
+          "Dark Makeup",
+          "Slouchy Beanies",
+          "Moto Boots",
+          "Ripped Tights",
+          "Oversized Sweaters",
+          "Vintage Pins",
+          "Studded Accessories"
+        ]
+      },
+      {
+        "name": "Hippie Aesthetic",
+        "items": [
+          "Flowy Maxi Dresses",
+          "Bell Bottom Jeans",
+          "Tie-Dye T-shirts",
+          "Peace Sign Jewelry",
+          "Round Sunglasses",
+          "Fringe Vest",
+          "Suede Fringe Bags",
+          "Flower Crowns",
+          "Patchwork Skirts",
+          "Crochet Tops",
+          "Beaded Necklaces",
+          "Platform Sandals",
+          "Wide-brimmed Hats",
+          "Boho Earrings",
+          "Wooden Bangles"
+        ]
+      },
+      {
+        "name": "Bohemian Aesthetic",
+        "items": [
+          "Flowy Boho Dresses",
+          "Embroidered Tunics",
+          "Woven Crossbody Bags",
+          "Statement Rings",
+          "Layered Necklaces",
+          "Wide-brimmed Hats",
+          "Patchwork Skirts",
+          "Leather Sandals",
+          "Crochet Tops",
+          "Frill Hem Blouses",
+          "Kimono Cardigans",
+          "Maxi Skirts",
+          "Tassel Earrings",
+          "Copper Cuffs",
+          "Hippie Headbands"
+        ]
+      },
+      {
+        "name": "Fairycore",
+        "items": [
+          "Lace Dresses",
+          "Floral Headbands",
+          "Ribboned Sandals",
+          "Gossamer Wings",
+          "Pastel Tulle Skirts",
+          "Flowy Blouses",
+          "Crystal Necklaces",
+          "Pearl Hairpins",
+          "Velvet Ribbons",
+          "Dreamy Accessories",
+          "Enchanted Forest Prints",
+          "Dainty Rings",
+          "Fairy Wing Earrings",
+          "Butterfly Clips",
+          "Chiffon Capes"
+        ]
+      },
+      {
+        "name": "Dark Academia Aesthetic",
+        "items": [
+          "Tweed Blazers",
+          "Oxford Shoes",
+          "Suspenders",
+          "Turtleneck Sweaters",
+          "Wide-leg Trousers",
+          "Vintage Watches",
+          "Wool Berets",
+          "Tote Bags",
+          "Muted Tones",
+          "Bookish Accessories",
+          "Long Coats",
+          "Plaid Skirts",
+          "Knit Scarves",
+          "Leather Gloves",
+          "Wool Socks"
+        ]
+      },
+      {
+        "name": "Y2K Aesthetic",
+        "items": [
+          "Rhinestone Accessories",
+          "Butterfly Hair Clips",
+          "Mini Skirts",
+          "Tube Tops",
+          "Cargo Pants",
+          "Baby Phat Tracksuits",
+          "Platform Sandals",
+          "Juicy Couture Velour",
+          "Tinted Sunglasses",
+          "Chunky Flip Phones",
+          "Logo-emblazoned Bags",
+          "Sparkly Handbags",
+          "Fuzzy Sweaters",
+          "Von Dutch Hats",
+          "Shiny Lip Gloss"
+        ]
+      },
+      {
+        "name": "E-Girl / E-Boy Aesthetic",
+        "items": [
+          "Graphic E-Girl Tees",
+          "Plaid Skirts",
+          "Chunky Platform Boots",
+          "Fishnet Tights",
+          "Buckle Belts",
+          "Beanie Hats",
+          "Choker Necklaces",
+          "Winged Eyeliner",
+          "Faux Leather Jackets",
+          "Colorful Hair Dye",
+          "Face Piercings",
+          "Goth Chains",
+          "Striped Socks",
+          "Oversized Hoodies",
+          "E-Boy Snapbacks"
+        ]
+      },
+      {
+        "name": "VSCO Girl",
+        "items": [
+          "Scrunchies",
+          "Hydro Flask Water Bottles",
+          "Oversized T-shirts",
+          "Puka Shell Necklaces",
+          "Fjällräven Kånken Backpacks",
+          "Birkenstock Sandals",
+          "Graphic Crop Tops",
+          "Polaroid Cameras",
+          "Bracelet Stacks",
+          "Sustainable Brands",
+          "Oversized Sweaters",
+          "High-Waisted Shorts",
+          "Wave Rings",
+          "Beaded Anklets",
+          "Messy Buns"
+        ]
+      },
+      {
+        "name": "Cottagecore",
+        "items": [
+          "Midi Dresses",
+          "Lace-trimmed Blouses",
+          "Floral Skirts",
+          "Linen Pinafores",
+          "Woven Baskets",
+          "Vintage Brooches",
+          "Garden Hats",
+          "Rustic Overalls",
+          "Mary Jane Shoes",
+          "Embroidered Aprons",
+          "Picnic Blanket Bags",
+          "Puffed Sleeves",
+          "Natural Makeup",
+          "Dainty Jewelry",
+          "Lace Gloves"
+        ]
+      },
+      {
+        "name": "Minimalist Fashion",
+        "items": [
+          "Clean-cut Blouses",
+          "Tailored Trousers",
+          "Neutral Tones",
+          "Structured Bags",
+          "Monochrome Outfits",
+          "Sleek Sneakers",
+          "Minimalist Watches",
+          "Simple Stud Earrings",
+          "A-line Dresses",
+          "Streamlined Accessories",
+          "V-neck Sweaters",
+          "Pendant Necklaces",
+          "Classic Loafers",
+          "Muted Patterns",
+          "Straight-cut Coats"
+        ]
+      },
+      {
+        "name": "Sporty-Chic",
+        "items": [
+          "Athletic Leggings",
+          "Track Jackets",
+          "Sneaker Wedges",
+          "Baseball Caps",
+          "Sweatshirt Dresses",
+          "Mesh Panel Tops",
+          "Sporty Watches",
+          "High-Top Sneakers",
+          "Color-blocked Outfits",
+          "Sweatpants with Heels",
+          "Athletic Socks",
+          "Hooded Windbreakers",
+          "Sneakerhead Accessories",
+          "Running Shorts",
+          "Sports Bra Crop Tops"
+        ]
+      },
+      {
+        "name": "Retro and Vintage Styles",
+        "items": [
+          "Retro Graphic Tees",
+          "High-waisted Jeans",
+          "Cat Eye Sunglasses",
+          "Polka Dot Dresses",
+          "Vintage Watches",
+          "Retro Sneakers",
+          "Old School Backpacks",
+          "Flared Trousers",
+          "Vintage Scarves",
+          "Classic Handbags",
+          "Retro Print Shirts",
+          "Penny Loafers",
+          "Silk Neckties",
+          "Bowling Shirts",
+          "Retro Blazers"
+        ]
+      },
+      {
+        "name": "Cyberpunk Aesthetic",
+        "items": [
+          "Futuristic Sunglasses",
+          "Tech-inspired Accessories",
+          "Utility Vests",
+          "Holographic Fabrics",
+          "Neon Hair Dye",
+          "Cargo Pants with Straps",
+          "Cyberpunk Boots",
+          "LED Jewelry",
+          "Glow-in-the-Dark Details",
+          "Dystopian-inspired Outfits",
+          "Mechanical Arm Sleeves",
+          "Utility Harnesses",
+          "Futuristic Backpacks",
+          "Matrix-inspired Trench Coats",
+          "Cybernetic Implants"
+        ]
+      },
+      {
+        "name": "Preppy Style",
+        "items": [
+          "Polo Shirts",
+          "Chino Pants",
+          "Cable Knit Sweaters",
+          "Loafers",
+          "Headbands",
+          "Pearl Necklaces",
+          "Blazers with Elbow Patches",
+          "Tweed Skirts",
+          "Turtleneck Dresses",
+          "Oxford Shoes",
+          "Quilted Handbags",
+          "Striped Sweaters",
+          "High-Waisted Shorts",
+          "Collegiate Cardigans",
+          "Ballet Flats"
+        ]
+      },
+      {
+        "name": "Tomboy Chic",
+        "items": [
+          "Graphic Tees",
+          "Boyfriend Jeans",
+          "Sneakers",
+          "Baseball Caps",
+          "Oversized Flannels",
+          "Snapback Caps",
+          "Hoodies",
+          "Cargo Pants",
+          "Slouchy Beanies",
+          "Suspenders",
+          "Distressed Denim",
+          "Combat Boots",
+          "Button-up Shirts",
+          "Oversized Blazers",
+          "Fedora Hats"
+        ]
+      },
+      {
+        "name": "K-Pop Fashion",
+        "items": [
+          "Statement Stage Outfits",
+          "Platform Boots",
+          "Colorful Hairstyles",
+          "Graphic Hoodies",
+          "Wide-leg Pants",
+          "K-Pop Idol Merch",
+          "Oversized Sunglasses",
+          "Logo-emblazoned Jackets",
+          "Bucket Hats",
+          "Oversized T-shirts",
+          "Statement Earrings",
+          "Patterned Jackets",
+          "Bold Makeup Looks",
+          "Embroidered Blazers",
+          "Glamorous Accessories"
+        ]
+      },
+      {
+        "name": "Normcore",
+        "items": [
+          "Basic T-shirts",
+          "Jeans with Simple Wash",
+          "Sneakers",
+          "Neutral Tones",
+          "Plain Hoodies",
+          "Casual Backpacks",
+          "Simple Watches",
+          "No-frills Accessories",
+          "Slip-on Shoes",
+          "Cotton Dresses",
+          "Simple Pullovers",
+          "Plain Baseball Caps",
+          "Straight-cut Jeans",
+          "Canvas Tote Bags",
+          "Classic Button-up Shirts"
+        ]
+      },
+      {
+        "name": "Athleisure",
+        "items": [
+          "Athletic Leggings",
+          "Sporty Hoodies",
+          "Sneakers",
+          "Baseball Caps",
+          "Track Pants",
+          "Hooded Windbreakers",
+          "Mesh Panel Tops",
+          "Sweatshirt Dresses",
+          "Athletic Socks",
+          "Athletic Shorts",
+          "Sweatpants",
+          "Tank Tops",
+          "Sports Bras",
+          "Running Shoes",
+          "Athletic Backpacks"
+        ]
+      },
+      {
+        "name": "Sustainable and Eco-Friendly Fashion",
+        "items": [
+          "Organic Cotton Clothing",
+          "Recycled Materials",
+          "Ethical Fashion Brands",
+          "Plant-based Leather",
+          "Eco-friendly Sneakers",
+          "Reusable Tote Bags",
+          "Upcycled Denim",
+          "Bamboo Accessories",
+          "Natural Fiber Dresses",
+          "Handmade Jewelry",
+          "Biodegradable Fabrics",
+          "Solar-powered Watches",
+          "Zero Waste Fashion",
+          "Compostable Footwear",
+          "Vintage and Second-hand Clothing"
+        ]
+      },
+      {
+        "name": "Gender-Neutral and Unisex Fashion",
+        "items": [
+          "Oversized T-shirts",
+          "Neutral Tones",
+          "Gender-Neutral Sneakers",
+          "Tailored Blazers",
+          "Androgynous Jeans",
+          "Utility Jumpsuits",
+          "Unisex Hoodies",
+          "Neutral-toned Accessories",
+          "Oversized Button-up Shirts",
+          "Sneaker Wedges",
+          "Gender-Neutral Watches",
+          "Loose-fitting Pants",
+          "Minimalist Backpacks",
+          "Unisex Fragrances",
+          "Boxy Silhouettes"
+        ]
+      },
+      {
+        "name": "High Fashion Street Style",
+        "items": [
+          "Designer Logo Pieces",
+          "Statement Accessories",
+          "Luxury Streetwear",
+          "High-end Sneakers",
+          "Structured Handbags",
+          "Tailored Trousers",
+          "Bold Sunglasses",
+          "Runway-inspired Outfits",
+          "Unique Silhouettes",
+          "Avant-garde Pieces",
+          "Mixed Patterns",
+          "Fashion-forward Jackets",
+          "High Fashion Sneaker Collaborations",
+          "Architectural Heels",
+          "Luxury Athleisure"
+        ]
+      },
+      {
+        "name": "Punk Revival",
+        "items": [
+          "Studded Leather Jackets",
+          "Combat Boots",
+          "Ripped Fishnet Tights",
+          "Band T-shirts",
+          "Spike Accessories",
+          "Leather Pants",
+          "Chains and Locks",
+          "Moto Gloves",
+          "Graphic Hoodies",
+          "Safety Pins",
+          "Plaid Skirts",
+          "Distressed Denim",
+          "Biker Boots",
+          "Gothic Jewelry",
+          "Punk Patches"
+        ]
+      },
+      {
+        "name": "Artistic and Avant-Garde Fashion",
+        "items": [
+          "Sculptural Pieces",
+          "Experimental Silhouettes",
+          "Architectural Heels",
+          "Asymmetric Hemlines",
+          "Abstract Prints",
+          "Mixed Media Accessories",
+          "Conceptual Jewelry",
+          "Deconstructed Dresses",
+          "Avant-Garde Headpieces",
+          "Art-inspired Patterns",
+          "Unconventional Materials",
+          "Draped Fabrics",
+          "Surreal Accessories",
+          "Wearable Art",
+          "Avant-Garde Makeup"
+        ]
+      },
+      {
+        "name": "Western and Cowboy Inspired Fashion",
+        "items": [
+          "Cowboy Boots",
+          "Frilled Blouses",
+          "Denim Shirts",
+          "Bolo Ties",
+          "Wide-brimmed Hats",
+          "Leather Jackets",
+          "Bandana Scarves",
+          "Suede Skirts",
+          "Fringe Details",
+          "Embroidered Western Shirts",
+          "Cowhide Bags",
+          "Western Belt Buckles",
+          "Saddle Bags",
+          "Leather Chaps",
+          "Navajo-inspired Patterns"
+        ]
+      },
+      {
+        "name": "Glam Rock",
+        "items": [
+          "Sequin Dresses",
+          "Studded Leather Jackets",
+          "Platform Boots",
+          "Metallic Leggings",
+          "Animal Print Skirts",
+          "Oversized Sunglasses",
+          "Glam Rock Band T-shirts",
+          "Statement Belts",
+          "Fringe Details",
+          "Bold Makeup",
+          "Faux Fur Accessories",
+          "Metallic Tops",
+          "Spiked Accessories",
+          "Shiny Vinyl Pants",
+          "Glam Rock Hairstyles"
+        ]
+      },
+      {
+        "name": "Nautical and Sailor Styles",
+        "items": [
+          "Striped Tops",
+          "Nautical Dresses",
+          "Anchor Motifs",
+          "Sailor Collar Blouses",
+          "Nautical Hats",
+          "Nautical Accessories",
+          "Rope Belt",
+          "High-waisted Sailor Pants",
+          "Boat Shoes",
+          "Nautical Scarves",
+          "Nautical Earrings",
+          "Sailor-inspired Skirts",
+          "Nautical Striped Sweaters",
+          "Anchor Necklaces",
+          "Nautical Blazers"
+        ]
+      },
+      {
+        "name": "Futuristic Fashion",
+        "items": [
+          "Metallic Dresses",
+          "Holographic Accessories",
+          "Reflective Sunglasses",
+          "Futuristic Sneakers",
+          "LED-illuminated Clothing",
+          "Robotic-inspired Silhouettes",
+          "Extraterrestrial Prints",
+          "Space-inspired Outfits",
+          "Cybernetic Accessories",
+          "Futuristic Headgear",
+          "Sci-fi-inspired Coats",
+          "Cosmic Jewelry",
+          "Astronaut-inspired Jumpsuits",
+          "Futuristic Bodysuits",
+          "Futuristic Makeup"
+        ]
+      },
+      {
+        "name": "Boho-Chic",
+        "items": [
+          "Flowy Maxi Dresses",
+          "Wide-brimmed Hats",
+          "Layered Necklaces",
+          "Bohemian Tunics",
+          "Frill Hem Skirts",
+          "Embroidered Blouses",
+          "Woven Crossbody Bags",
+          "Floral Headbands",
+          "Leather Sandals",
+          "Ethnic-inspired Prints",
+          "Boho Kimonos",
+          "Tassel Earrings",
+          "Patchwork Denim",
+          "Boho Jewelry",
+          "Crochet Cover-ups"
+        ]
+      },
+      {
+        "name": "Retro Futurism",
+        "items": [
+          "Space Age Dresses",
+          "Futuristic Sunglasses",
+          "Metallic Fabrics",
+          "Geometric Prints",
+          "Plastic Accessories",
+          "Robot-inspired Details",
+          "Silver Boots",
+          "Chrome Jewelry",
+          "Retro Futurist Jackets",
+          "Clear Plastic Raincoats",
+          "Futuristic Mini Skirts",
+          "Neon Accents",
+          "LED-lit Clothing",
+          "Shiny Metallic Purses",
+          "Visor Sunglasses"
+        ]
+      },
+      {
+        "name": "Industrial Fashion",
+        "items": [
+          "Distressed Clothing",
+          "Hardware-inspired Accessories",
+          "Cargo Pants",
+          "Leather Jackets",
+          "Industrial Boots",
+          "Studded Belts",
+          "Metallic Details",
+          "Rugged Denim",
+          "Safety Pin Accents",
+          "Mechanical Prints",
+          "Harness Accessories",
+          "Suspenders",
+          "Concrete-inspired Colors",
+          "Utility Vests",
+          "Gritty Makeup"
+        ]
+      },
+      {
+        "name": "Rave and Festival Fashion",
+        "items": [
+          "Neon Clothing",
+          "Rave Bodysuits",
+          "Fringe Shorts",
+          "LED Accessories",
+          "Fluffy Leg Warmers",
+          "Glow-in-the-Dark Paint",
+          "Holographic Bags",
+          "Sequin Bra Tops",
+          "Rave Goggles",
+          "Kandi Bracelets",
+          "Raver Boots",
+          "Rave Hoodies",
+          "Cyber Hair Dye",
+          "Festival Face Gems",
+          "Futuristic Space Buns"
+        ]
+      },
+      {
+        "name": "Romantic Victorian Style",
+        "items": [
+          "Lace Dresses",
+          "Ruffled Blouses",
+          "Corset Tops",
+          "Victorian-inspired Boots",
+          "Pearl Jewelry",
+          "Vintage Brooches",
+          "Gloves with Lace Trim",
+          "Floral Headpieces",
+          "Choker Necklaces",
+          "High-neck Collars",
+          "Velvet Gowns",
+          "Antique Lockets",
+          "Lace Parasols",
+          "Bustle Skirts",
+          "Elegant Cameo Accessories"
+        ]
+      },
+      {
+        "name": "Modern Grunge",
+        "items": [
+          "Slouchy Cardigans",
+          "Distressed Denim",
+          "Combat Boots",
+          "Plaid Skirts",
+          "Beanie Hats",
+          "Vintage Band Tees",
+          "Fishnet Stockings",
+          "Layered Chokers",
+          "Dark Lipstick",
+          "Oversized Sweaters",
+          "Moto Jackets",
+          "Ripped Tights",
+          "Graphic Hoodies",
+          "Studded Accessories",
+          "Grunge-inspired Jewelry"
+        ]
+      },
+      {
+        "name": "Aviator and Pilot Inspired Fashion",
+        "items": [
+          "Aviator Jackets",
+          "Pilot Sunglasses",
+          "Cargo Pants",
+          "Pilot Caps",
+          "Flight Suit Jumpsuits",
+          "Leather Gloves",
+          "Shearling-lined Boots",
+          "Utility Vests",
+          "Aviator Watches",
+          "Bomber Jackets",
+          "Utility Belts",
+          "Aviator Scarves",
+          "Pilot Patches",
+          "Flight Goggles",
+          "Pilot-inspired Accessories"
+        ]
+      },
+      {
+        "name": "Military-Inspired Fashion",
+        "items": [
+          "Cargo Pants",
+          "Utility Jackets",
+          "Combat Boots",
+          "Camouflage Prints",
+          "Military Caps",
+          "Dog Tag Necklaces",
+          "Camouflage Cargo Shorts",
+          "Military-inspired Vests",
+          "Commando Sweaters",
+          "Aviator Sunglasses",
+          "Utility Belts",
+          "Military-style Boots",
+          "Olive Green Parkas",
+          "Berets",
+          "Tactical Backpacks"
+        ]
+      },
+      {
+        "name": "Business Casual with a Twist",
+        "items": [
+          "Tailored Blazers",
+          "Wide-leg Trousers",
+          "Blouses with Unique Details",
+          "Statement Necklaces",
+          "Oxford Shoes",
+          "Pencil Skirts",
+          "Layered Jewelry",
+          "Belted Waist Coats",
+          "Printed Scarves",
+          "Structured Handbags",
+          "Muted Tones",
+          "Unique Patterned Blazers",
+          "Tassel Loafers",
+          "Bold Earrings",
+          "Modernized Classic Pieces"
+        ]
+      },
+      {
+        "name": "Vintage Sportswear",
+        "items": [
+          "Retro Sport T-shirts",
+          "Track Jackets",
+          "Sweatpants",
+          "Sneakers",
+          "Baseball Caps",
+          "Windbreakers",
+          "Sporty Shorts",
+          "Retro Sport Shoes",
+          "Old School Gym Bags",
+          "Retro Sweatshirts",
+          "Vintage Gym Socks",
+          "Retro Sport Accessories",
+          "Throwback Sports Logos",
+          "Retro Sport Headbands",
+          "Vintage Sportswear Sets"
+        ]
+      },
+      {
+        "name": "Art Deco Inspired Fashion",
+        "items": [
+          "Geometric Patterned Dresses",
+          "Flapper Dresses",
+          "Art Deco Jewelry",
+          "Feathered Accessories",
+          "Elegant Headbands",
+          "Silk Gloves",
+          "T-strap Shoes",
+          "Sleek Clutches",
+          "Embellished Shawls",
+          "Glamorous Necklaces",
+          "Pearl Embellishments",
+          "Gold and Silver Details",
+          "Sequin Gowns",
+          "Beaded Purses",
+          "Retro Hair Combs"
+        ]
+      },
+      {
+        "name": "Tropical and Resort Wear",
+        "items": [
+          "Flowy Maxi Dresses",
+          "Hawaiian Print Shirts",
+          "Straw Hats",
+          "Woven Sandals",
+          "Sunglasses with Colorful Frames",
+          "Tropical Jumpsuits",
+          "Beach Cover-ups",
+          "Palm Leaf Accessories",
+          "Bright Swimsuits",
+          "Tropical Tote Bags",
+          "Linen Shorts",
+          "Sarongs",
+          "Tropical Print Skirts",
+          "Tropical Earrings",
+          "Beachy Flip Flops"
+        ]
+      },
+      {
+        "name": "Exaggerated Silhouettes",
+        "items": [
+          "Oversized Blazers",
+          "Puffy Sleeved Dresses",
+          "Dramatic Ruffled Tops",
+          "Oversized Pants",
+          "Statement Shoulder Pads",
+          "Draped Coats",
+          "Voluminous Skirts",
+          "Wide-brimmed Hats",
+          "Asymmetric Hemlines",
+          "Dramatic Capes",
+          "Exaggerated Collars",
+          "Oversized Sunglasses",
+          "Big Bow Details",
+          "Dramatic Peplum Tops",
+          "Voluminous Jumpsuits"
+        ]
+      },
+      {
+        "name": "Monochromatic Fashion",
+        "items": [
+          "Head-to-toe Black Outfits",
+          "All-White Ensembles",
+          "Monochromatic Suits",
+          "Single-color Accessories",
+          "Neutral Tones",
+          "Monochromatic Dresses",
+          "Tonal Shoes",
+          "Mono-color Blazers",
+          "Monochromatic Jumpsuits",
+          "Matched Accessories",
+          "Monochromatic Makeup",
+          "Tonal Scarves",
+          "Monochrome Casual Outfits",
+          "Tonal Handbags",
+          "Monochromatic Patterns"
+        ]
+      },
+      {
+        "name": "Street Goth",
+        "items": [
+          "Black Leather Jackets",
+          "Combat Boots",
+          "Dark Hoodies",
+          "All-Black Outfits",
+          "Fishnet Stockings",
+          "Choker Necklaces",
+          "Gothic Accessories",
+          "Ripped Denim",
+          "Studded Belts",
+          "Dark Makeup",
+          "Platform Sneakers",
+          "Oversized Sunglasses",
+          "Gothic Prints",
+          "Dark Jewelry",
+          "Studded Leather Backpacks"
+        ]
+      },
+      {
+        "name": "Gender-Fluid Fashion",
+        "items": [
+          "Androgynous Blazers",
+          "Unisex T-shirts",
+          "Neutral Tones",
+          "Oversized Clothing",
+          "Gender-Neutral Sneakers",
+          "Baggy Jeans",
+          "Button-up Shirts",
+          "Unisex Accessories",
+          "Boxy Silhouettes",
+          "Mixed Patterns",
+          "Oversized Blazers",
+          "Slouchy Sweaters",
+          "Unisex Watches",
+          "Tailored Trousers",
+          "Neutral-toned Makeup"
+        ]
+      },
+      {
+        "name": "Athletically Inspired Fashion",
+        "items": [
+          "Mesh Panel Tops",
+          "Athletic Leggings",
+          "Sneakers",
+          "Baseball Caps",
+          "Sporty Hoodies",
+          "Track Pants",
+          "Athletic Shorts",
+          "Sports Bra Crop Tops",
+          "High-Top Sneakers",
+          "Athletic Socks",
+          "Athletic Accessories",
+          "Sweatshirt Dresses",
+          "Sports Jerseys",
+          "Gym Duffle Bags",
+          "Active Lifestyle Gear"
+        ]
+      },
+      {
+        "name": "Folk and Ethnic Inspired Fashion",
+        "items": [
+          "Embroidered Tunics",
+          "Bohemian Dresses",
+          "Ethnic Prints",
+          "Handwoven Accessories",
+          "Tribal Jewelry",
+          "Patterned Skirts",
+          "Cultural Embellishments",
+          "Folk-inspired Footwear",
+          "Embroidered Details",
+          "Artisanal Bags",
+          "Global-inspired Patterns",
+          "Cultural Symbols",
+          "Folk-inspired Scarves",
+          "Handcrafted Jewelry",
+          "Tassel Embellishments"
+        ]
+      },
+      {
+        "name": "Punk Glam",
+        "items": [
+          "Leather Jackets",
+          "Studded Accessories",
+          "Platform Boots",
+          "Ripped Fishnet Tights",
+          "Glam Rock Band T-shirts",
+          "Gothic Makeup",
+          "Metallic Details",
+          "Glitter Accents",
+          "Spike Jewelry",
+          "Faux Fur Stoles",
+          "Tartan Prints",
+          "Punk-inspired Skirts",
+          "Glamorous Accessories",
+          "Dark Lipstick",
+          "Sequin Embellishments"
+        ]
+      },
+      {
+        "name": "Rockabilly Style",
+        "items": [
+          "Polka Dot Dresses",
+          "High-waisted Shorts",
+          "Vintage Band T-shirts",
+          "Leather Jackets",
+          "Pompadour Hairstyles",
+          "Cherry Print Accessories",
+          "Retro Cat Eye Sunglasses",
+          "Swing Dresses",
+          "Bow-tie Blouses",
+          "Rockabilly Shoes",
+          "Cherry Print Skirts",
+          "Red Lipstick",
+          "Polka Dot Headbands",
+          "Retro Hair Accessories",
+          "Retro Hairstyles"
+        ]
+      },
+      {
+        "name": "Urban Explorer Fashion",
+        "items": [
+          "Cargo Pants",
+          "Utility Jackets",
+          "Hiking Boots",
+          "Convertible Backpacks",
+          "Neutral Tones",
+          "Outdoor-inspired Accessories",
+          "Performance Fabrics",
+          "Weather-resistant Outerwear",
+          "Technical Footwear",
+          "Functional Accessories",
+          "Multi-pocket Pants",
+          "Urban Camouflage Prints",
+          "Active Lifestyle Gear",
+          "Functional Belts",
+          "Utility Vests"
+        ]
+      },
+      {
+        "name": "Androgynous Fashion",
+        "items": [
+          "Tailored Blazers",
+          "Unisex T-shirts",
+          "Slouchy Pants",
+          "Oxford Shoes",
+          "Neutral Tones",
+          "Baggy Jeans",
+          "Button-up Shirts",
+          "Androgynous Accessories",
+          "Boxy Silhouettes",
+          "Neutral-toned Makeup",
+          "Unisex Watches",
+          "Structured Bags",
+          "Mixed Patterns",
+          "Neutral-toned Outfits",
+          "Unisex Footwear"
+        ]
+      },
+      {
+        "name": "Classic Hollywood Glamour",
+        "items": [
+          "Floor-length Gowns",
+          "Silk Gloves",
+          "Chandelier Earrings",
+          "Statement Necklaces",
+          "Red Lipstick",
+          "Faux Fur Stoles",
+          "Satin Dresses",
+          "Vintage-inspired Hair Accessories",
+          "Retro Waves Hairstyles",
+          "Elegant Clutches",
+          "Pearl Jewelry",
+          "Old Hollywood Hairstyles",
+          "Diamond Stud Earrings",
+          "Vintage Brooches",
+          "Crystal-embellished Heels"
+        ]
+      },
+      {
+        "name": "Futuristic Metallics",
+        "items": [
+          "Metallic Dresses",
+          "Holographic Accessories",
+          "Reflective Sunglasses",
+          "Futuristic Sneakers",
+          "Silver Tops",
+          "Metallic Skirts",
+          "Foil-print Leggings",
+          "Shiny Metallic Purses",
+          "Iridescent Jewelry",
+          "Metallic Outerwear",
+          "Space-inspired Prints",
+          "Glittering Makeup",
+          "Chrome-colored Footwear",
+          "Liquid Silver Details",
+          "Futuristic Headgear"
+        ]
+      },
+      {
+        "name": "Prairie Chic",
+        "items": [
+          "Flowy Prairie Dresses",
+          "Vintage-inspired Boots",
+          "Floral Print Blouses",
+          "Gingham Skirts",
+          "Lace-trimmed Cardigans",
+          "Wide-brimmed Hats",
+          "Ruffled Hem Dresses",
+          "Embroidered Details",
+          "High-neck Collars",
+          "Prairie-style Accessories",
+          "Prairie Bloom Prints",
+          "Braided Hair Accessories",
+          "Rustic Buckle Belts",
+          "Lace-trimmed Bloomers",
+          "Country-inspired Headbands"
+        ]
+      },
+      {
+        "name": "Street Punk",
+        "items": [
+          "Leather Jackets",
+          "Combat Boots",
+          "Plaid Skirts",
+          "Studded Accessories",
+          "Band T-shirts",
+          "Spiked Collars",
+          "Ripped Fishnet Tights",
+          "Gothic Makeup",
+          "Moto Gloves",
+          "Anarchy Symbols",
+          "Punk Band Patches",
+          "Safety Pins",
+          "Moto Jackets",
+          "Studded Belts",
+          "Gothic Prints"
+        ]
+      },
+      {
+        "name": "Artsy and Artisanal Styles",
+        "items": [
+          "Hand-painted Clothing",
+          "Art-inspired Prints",
+          "Handmade Jewelry",
+          "Unique Accessories",
+          "Bohemian Dresses",
+          "Artistic Scarves",
+          "Handcrafted Bags",
+          "Custom-painted Shoes",
+          "Artisanal Textiles",
+          "Mixed Media Accessories",
+          "Artistic Hats",
+          "Hand-knit Sweaters",
+          "Art-inspired Earrings",
+          "Custom-painted Jackets",
+          "Artistic Patterns"
+        ]
+      },
+      {
+        "name": "Romantic Bohemian",
+        "items": [
+          "Flowy Maxi Dresses",
+          "Embroidered Tunics",
+          "Woven Crossbody Bags",
+          "Statement Rings",
+          "Layered Necklaces",
+          "Wide-brimmed Hats",
+          "Patchwork Skirts",
+          "Leather Sandals",
+          "Crochet Tops",
+          "Frill Hem Blouses",
+          "Kimono Cardigans",
+          "Maxi Skirts",
+          "Tassel Earrings",
+          "Copper Cuffs",
+          "Hippie Headbands"
+        ]
+      },
+      {
+        "name": "Digital and Pixelated Prints",
+        "items": [
+          "Pixel Art-inspired Clothing",
+          "Digital Camouflage Patterns",
+          "Geometric Pixel Prints",
+          "Pixelated Accessories",
+          "Pixel Art T-shirts",
+          "Digital-inspired Dresses",
+          "Binary Code Patterns",
+          "High-tech Accessories",
+          "Pixelated Leggings",
+          "Colorful Screen Prints",
+          "Digital Art-inspired Skirts",
+          "Pixelated Sunglasses",
+          "Circuit Board-inspired Jewelry",
+          "8-bit Pixel Accessories",
+          "Digital Graffiti Prints"
+        ]
+      },
+      {
+        "name": "Oversized T-shirts",
+        "items": [
+          "Graphic Oversized Tees",
+          "Biker Shorts",
+          "Chunky Sneakers",
+          "Oversized Hoodies",
+          "Baseball Caps",
+          "Leggings",
+          "Oversized Accessories",
+          "Oversized Denim Jackets",
+          "Slip Dresses",
+          "Oversized Flannel Shirts",
+          "Oversized Sunglasses",
+          "Oversized Sweaters",
+          "Large Tote Bags",
+          "Oversized Earrings",
+          "Relaxed-fit Jeans"
+        ]
+      },
+      {
+        "name": "Casual Sporty",
+        "items": [
+          "Athletic Shorts",
+          "Sneakers",
+          "Baseball Caps",
+          "Hoodies",
+          "Sweatpants",
+          "Casual Sport T-shirts",
+          "Sporty Leggings",
+          "Athletic Sandals",
+          "Running Shoes",
+          "Sports Bras",
+          "Mesh Panel Tops",
+          "Active Lifestyle Accessories",
+          "Track Pants",
+          "Casual Sport Jackets",
+          "Casual Sport Watches"
+        ]
+      },
+      {
+        "name": "Mix and Match",
+        "items": [
+          "Clashing Prints",
+          "Mismatched Accessories",
+          "Colorful Layering",
+          "Eclectic Combinations",
+          "Mix-and-match Patterns",
+          "Unconventional Pairings",
+          "Bold Color Contrasts",
+          "Assorted Textures",
+          "Playful Accessories",
+          "Mismatched Shoes",
+          "Mixed Pattern Outfits",
+          "Eclectic Jewelry",
+          "Creative Styling",
+          "Individualistic Fashion",
+          "Unexpected Color Choices"
+        ]
+      },
+      {
+        "name": "Taylor Swift Aesthetic",
+        "items": [
+          "Vintage Dresses",
+          "Lace-up Boots",
+          "High-waisted Skirts",
+          "Vintage-inspired Handbags",
+          "Cat-eye Sunglasses",
+          "Peter Pan Collars",
+          "Pastel Tones",
+          "Polka Dot Prints",
+          "Romantic Floral Dresses",
+          "Classic Turtlenecks",
+          "Vintage-inspired Jewelry",
+          "Retro Hairstyles",
+          "Feminine Blouses",
+          "Vintage Cardigans",
+          "Taylor Swift Merchandise"
+        ]
+      },
+      {
+        "name": "Rihanna's Bold and Edgy Style",
+        "items": [
+          "Leather Jackets",
+          "Statement Accessories",
+          "Biker Boots",
+          "Ripped Denim",
+          "Oversized Sunglasses",
+          "Bold Prints",
+          "Faux Fur Coats",
+          "Chunky Jewelry",
+          "Strappy Heels",
+          "Sheer Dresses",
+          "Logo-emblazoned Pieces",
+          "Streetwear-inspired Outfits",
+          "Edgy Makeup Looks",
+          "Metallic Details",
+          "Rihanna-inspired Hairstyles"
+        ]
+      },
+      {
+        "name": "Harry Styles' Gender-Fluid Fashion",
+        "items": [
+          "Wide-leg Pants",
+          "Oversized Button-up Shirts",
+          "Floral Print Blouses",
+          "Statement Suits",
+          "Colorful Patterns",
+          "Platform Shoes",
+          "Pastel Tones",
+          "Pendant Necklaces",
+          "Androgynous Accessories",
+          "Flowy Silhouettes",
+          "Bold Earrings",
+          "Unisex Fragrances",
+          "Embroidered Details",
+          "Mismatched Prints",
+          "Harry Styles-inspired Hairstyles"
+        ]
+      },
+      {
+        "name": "Beyoncé's Glamorous Looks",
+        "items": [
+          "Red Carpet Gowns",
+          "Sparkling Jewelry",
+          "Crystal-embellished Heels",
+          "Luxury Handbags",
+          "Dramatic Capes",
+          "Elegant Headpieces",
+          "Floor-length Dresses",
+          "Statement Earrings",
+          "Glittering Makeup",
+          "Silk Gloves",
+          "High-end Accessories",
+          "Beyoncé Merchandise",
+          "Glamorous Hairstyles",
+          "Bold Red Lipstick",
+          "Dazzling Evening Clutches"
+        ]
+      },
+      {
+        "name": "Zendaya's Trendsetting Outfits",
+        "items": [
+          "Fashion-forward Ensembles",
+          "Unique Silhouettes",
+          "Avant-Garde Pieces",
+          "Bold Prints",
+          "High-end Accessories",
+          "Runway-inspired Looks",
+          "Statement Jewelry",
+          "Edgy Hairstyles",
+          "Modern Glamour",
+          "Luxury Handbags",
+          "Red Carpet-worthy Gowns",
+          "Mixed Patterns",
+          "Zendaya Merchandise",
+          "Experimentation with Color",
+          "Trendsetting Makeup"
+        ]
+      },
+      {
+        "name": "Billie Eilish's Unique Streetwear",
+        "items": [
+          "Oversized Clothing",
+          "Baggy Pants",
+          "Logo-emblazoned Hoodies",
+          "Streetwear-inspired Accessories",
+          "Chunky Sneakers",
+          "Graphic T-shirts",
+          "Beanie Hats",
+          "Oversized Sunglasses",
+          "Neon Accents",
+          "Oversized Chains",
+          "Streetwear Brands",
+          "Sporty Jackets",
+          "Statement Sneakers",
+          "Quirky Patterns",
+          "Billie Eilish Merchandise"
+        ]
+      },
+      {
+        "name": "Kendall Jenner's Casual Chic",
+        "items": [
+          "Effortless Outfits",
+          "Basic T-shirts",
+          "Skinny Jeans",
+          "Ankle Boots",
+          "Blazers with Casual Outfits",
+          "Sneakers",
+          "Neutral Tones",
+          "Simple Jewelry",
+          "High-waisted Pants",
+          "Statement Sunglasses",
+          "Casual Handbags",
+          "Layered Necklaces",
+          "Minimalist Makeup",
+          "Casual Hairstyles",
+          "Kendall Jenner-inspired Accessories"
+        ]
+      },
+      {
+        "name": "Timothée Chalamet's Eclectic Style",
+        "items": [
+          "Eclectic Combinations",
+          "Unconventional Pairings",
+          "Unique Accessories",
+          "Vintage-inspired Pieces",
+          "Tailored Suits",
+          "Statement Outerwear",
+          "Androgynous Fashion",
+          "Layered Jewelry",
+          "Mismatched Patterns",
+          "Artistic Silhouettes",
+          "Creative Styling",
+          "Bold Color Contrasts",
+          "Timothée Chalamet Merchandise",
+          "Experimentation with Texture",
+          "Timothée Chalamet-inspired Hairstyles"
+        ]
+      },
+      {
+        "name": "Ariana Grande's Iconic Accessories",
+        "items": [
+          "High Ponytails",
+          "Oversized Hair Bows",
+          "Cat Ears Headbands",
+          "Statement Earrings",
+          "Choker Necklaces",
+          "Micro Handbags",
+          "Long Gloves",
+          "Oversized Sunglasses",
+          "Ariana Grande Merchandise",
+          "Hair Extensions",
+          "Feminine Fragrances",
+          "Sparkling Hair Accessories",
+          "Ariana-inspired Makeup",
+          "Signature High Heels",
+          "Diamond Stud Earrings"
+        ]
+      },
+      {
+        "name": "David Bowie's Glam Rock Influence",
+        "items": [
+          "Metallic Clothing",
+          "Bold Patterns",
+          "Platform Boots",
+          "Statement Belts",
+          "Androgynous Fashion",
+          "Glam Rock Band T-shirts",
+          "Space-inspired Outfits",
+          "Bold Makeup",
+          "Sleek Hairstyles",
+          "Unique Accessories",
+          "Extravagant Silhouettes",
+          "Glam Rock-inspired Jewelry",
+          "Shiny Vinyl Pants",
+          "David Bowie Merchandise",
+          "Signature Lightning Bolt"
+        ]
+      }
+      
+    ]
+  }
+  
